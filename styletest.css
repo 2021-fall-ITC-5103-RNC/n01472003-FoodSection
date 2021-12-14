@@ -259,7 +259,7 @@ nav {
 /* 
 main content changes */
 html {
-  background-image: url(/Images/backtest3.jpg);
+  background-image: url(Images/backtest3.jpg);
   background-size: cover;
   background-position: center center;
   height: 100vh;
